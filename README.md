@@ -1,3 +1,9 @@
+# Information
+
+This fork contains the solved tasks of Homework 2 of the [103-0274-01L Bildverarbeitung FS2022](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&ansicht=ALLE&lerneinheitId=158279&lang=de) course. No guarantee is given for the correctness or completeness of the solutions provided here. The original README is included below.
+
+------------
+
 # Bildverarbeitung
 
 This repository follows Bildverarbeitung FS2022 for Geomatik bachelor students at ETH Zurich. Lectures and recordings can be found in [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=17253&lang=en). 
