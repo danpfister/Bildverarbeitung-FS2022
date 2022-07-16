@@ -1,4 +1,4 @@
-# Information
+# Disclaimer
 
 This fork contains the solved tasks of Homework 2 of the [103-0274-01L Bildverarbeitung FS2022](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022S&ansicht=ALLE&lerneinheitId=158279&lang=de) course. No guarantee is given for the correctness or completeness of the solutions provided here. The original README is included below.
 
